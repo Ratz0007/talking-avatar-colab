@@ -1,0 +1,6 @@
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg1a.wav'
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg1b.wav'
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg1c.wav'
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg2.wav'
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg3.wav'
+file 'C:\Users\ratin\talking-avatar-colab\audio_segments\seg4.wav'
