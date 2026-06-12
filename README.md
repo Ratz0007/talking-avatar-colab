@@ -1,12 +1,14 @@
 # Talking Avatar Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ratz0007/talking-avatar-colab/blob/main/wan2gp-custom.ipynb)
+
 Generate lip-synced talking head videos from a **photo** and a **script** using free tools on Google Colab.
 
 ## Quick Start
 
-1. Open the notebook in Google Colab: [wan2gp-custom.ipynb](https://colab.research.google.com/github/YOUR_USERNAME/talking-avatar-colab/blob/main/wan2gp-custom.ipynb)
-2. Set runtime to **GPU** (Runtime → Change runtime type → GPU)
-3. Run cells in order
+1. Click the **Open in Colab** badge above
+2. Set runtime to **GPU** (Runtime → Change runtime type → T4 GPU → Save)
+3. Run cells in order (Step 1 → Step 9)
 4. Follow the Gradio UI walkthrough in Step 8
 
 ## What This Does
